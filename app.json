@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "detox-reactnative",
+    "slug": "detox-reactnative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
