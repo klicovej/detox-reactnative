@@ -33,4 +33,8 @@ when running [npm run android] error [Cannot read properties of undefined (readi
 https://stackoverflow.com/questions/69647332/cannot-read-properties-of-undefined-reading-transformfile-at-bundler-transfo
 
 open settings.gradle file in Android studio
+
+- Install Appium inspector https://github.com/appium/appium-inspector/releases
+- Install Appium GUI server https://github.com/appium/appium-desktop/releases/tag/v1.22.2
+- Set up Appium inspector + GUI server https://github.com/appium/appium-desktop/issues/1927
 run emulator, after it is loaded: npm run android
