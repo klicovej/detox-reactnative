@@ -24,6 +24,7 @@
 
 ### Setting up React Native project
 - Install Gradle https://www.simplilearn.com/tutorials/gradle-tutorial/gradle-installation
+- Install npm install -g react-native-cli
 - Install React-native: npm i react-native
 - Follow https://reactnative.dev/docs/environment-setup
 choco install -y nodejs.install openjdk8
