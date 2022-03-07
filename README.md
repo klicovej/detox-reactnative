@@ -38,3 +38,9 @@ open settings.gradle file in Android studio
 - Install Appium GUI server https://github.com/appium/appium-desktop/releases/tag/v1.22.2
 - Set up Appium inspector + GUI server https://github.com/appium/appium-desktop/issues/1927
 run emulator, after it is loaded: npm run android
+
+# Setting up Detox & Cucumber
+- yarn global add detox-cli && yarn global add npx
+- yarn add -D detox@18.16.0 && yarn add -D @cucumber/cucumber && yarn add -D @babel/register
+
+
