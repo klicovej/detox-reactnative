@@ -42,5 +42,5 @@ run emulator, after it is loaded: npm run android
 # Setting up Detox & Cucumber
 - yarn global add detox-cli && yarn global add npx
 - yarn add -D detox@18.16.0 && yarn add -D @cucumber/cucumber && yarn add -D @babel/register
-
+- Follow https://wix.github.io/Detox/docs/api/configuration
 
