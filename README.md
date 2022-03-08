@@ -43,3 +43,6 @@ run emulator, after it is loaded: npm run android:build
 - yarn global add detox-cli && yarn global add npx
 - yarn add -D detox@18.16.0 && yarn add -D @cucumber/cucumber && yarn add -D @babel/register
  - https://github.com/wix/Detox/blob/18.3.1/docs/APIRef.Configuration.md
+ - Start react Native: yarn start
+ -  yarn detox:build:android-debug -> Error When running task on windows -> https://developer.android.com/studio/build/building-cmdline 
+
