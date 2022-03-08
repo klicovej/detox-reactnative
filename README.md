@@ -39,7 +39,10 @@ open settings.gradle file in Android studio
 - Set up Appium inspector + GUI server https://github.com/appium/appium-desktop/issues/1927
 run emulator, after it is loaded: npm run android:build
 
-# Setting up Detox & Cucumber
+
+
+
+# Setting up Detox & Cucumber [For Udemy course]
 - yarn global add detox-cli && yarn global add npx
 - yarn add -D detox@18.16.0 && yarn add -D @cucumber/cucumber && yarn add -D @babel/register
  - https://github.com/wix/Detox/blob/18.3.1/docs/APIRef.Configuration.md
