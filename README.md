@@ -40,10 +40,11 @@ open settings.gradle file in Android studio
 run emulator, after it is loaded: npm run android:build
 
 ## React Native app second way
-$ npm i -g create-react-native-app
-$ create-react-native-app my-project
-$ cd my-project
-$ npm start
+https://reactnative.dev/blog/2017/03/13/introducing-create-react-native-app
+npm i -g create-react-native-app
+create-react-native-app my-project
+cd my-project
+npm start
 
 
 # Setting up Detox & Cucumber [For Udemy course]
