@@ -49,3 +49,4 @@ run emulator, after it is loaded: npm run android:build
  - Start react Native: yarn start
  -  yarn detox:build:android-debug -> Error When running task on windows -> https://developer.android.com/studio/build/building-cmdline 
 
+## setting up for sample project
