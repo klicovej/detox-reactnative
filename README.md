@@ -46,6 +46,12 @@ create-react-native-app my-project
 cd my-project
 npm start
 
+- React native app run like this:
+  npm run start -> will start Metro Bundler
+  npx react-native run-android
+  open Android studio and run device
+  
+
 
 # Setting up Detox & Cucumber [For Udemy course]
 - yarn global add detox-cli && yarn global add npx
@@ -56,3 +62,4 @@ npm start
 
 ## Setting up for sample project
 - pay attention to correct package value in DetoxTest.java, MainActivity.java, MainApliccation.java, also rootProject.name in settings.gradle
+-
