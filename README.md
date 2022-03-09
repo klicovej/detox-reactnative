@@ -39,7 +39,11 @@ open settings.gradle file in Android studio
 - Set up Appium inspector + GUI server https://github.com/appium/appium-desktop/issues/1927
 run emulator, after it is loaded: npm run android:build
 
-
+## React Native app second way
+$ npm i -g create-react-native-app
+$ create-react-native-app my-project
+$ cd my-project
+$ npm start
 
 
 # Setting up Detox & Cucumber [For Udemy course]
