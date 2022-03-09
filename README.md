@@ -49,4 +49,5 @@ run emulator, after it is loaded: npm run android:build
  - Start react Native: yarn start
  -  yarn detox:build:android-debug -> Error When running task on windows -> https://developer.android.com/studio/build/building-cmdline 
 
-## setting up for sample project
+## Setting up for sample project
+- pay attention to correct package value in DetoxTest.java, MainActivity.java, MainApliccation.java, also rootProject.name in settings.gradle
