@@ -50,7 +50,7 @@ npm start
   npm run start -> will start Metro Bundler
   npx react-native run-android
   open Android studio and run device
-  
+### IF there will be any troubles with running android app: react-native doctor
 
 
 # Setting up Detox & Cucumber [For Udemy course]
