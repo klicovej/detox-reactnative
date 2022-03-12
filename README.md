@@ -50,8 +50,9 @@ npm start
   npm run start -> will start Metro Bundler
   npx react-native run-android
   open Android studio and run device
-### IF there will be any troubles with running android app: react-native doctor
-
+### IF there will be any troubles with running android app: 
+cdm: react-native doctor
+makeError execa.exe error:
 
 # Setting up Detox & Cucumber [For Udemy course]
 - yarn global add detox-cli && yarn global add npx
@@ -62,4 +63,9 @@ npm start
 
 ## Setting up for sample project
 - pay attention to correct package value in DetoxTest.java, MainActivity.java, MainApliccation.java, also rootProject.name in settings.gradle
--
+
+
+###
+If I want to run react-native app on emulator, there are 2 ways:
+1] If I want to open simulator automatically: react-native start + react-native run android
+2] If I want to open simulator in Android Studio: react-native start + + start emulator in Android Studio + react-native run android
